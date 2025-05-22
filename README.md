@@ -25,3 +25,8 @@ From this project I learnt how to use tools such as Mediapipe, OpenCV, and Tenso
 
 If you have any feedback, please reach out to me at vansh.whig@gmail.com
 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
