@@ -28,5 +28,5 @@ If you have any feedback, please reach out to me at vansh.whig@gmail.com
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT License](LICENSE)
 
