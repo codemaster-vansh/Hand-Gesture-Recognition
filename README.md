@@ -8,7 +8,7 @@ This project was aimed at developing an effective and light model to recognise g
 
 - Light and Scalable
 - Highly Accurate (97+ percent accuracy)
-- Fast (achieves 0.1 s of processing time per frame on CPU)
+- Fast (achieves 0.1 s of processing time per frame on CPU only, hosting to ONNX will result in evern higher frame rates)
 - Utilises Image Augmentation to rotate, shear, crop, blur, and contrast the images to make the model more robust to changes in depth, background, and camera quality.
 
 
