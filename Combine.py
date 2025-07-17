@@ -3,9 +3,9 @@ import shutil
 import random
 
 # ===== USER CONFIGURATION =====
-AUGMENTED_DIR = r"F:\PROJECTS\AI PROJECTS\data\Augmented"       # Update with your actual path
-NON_AUGMENTED_DIR = r"F:\PROJECTS\AI PROJECTS\data\PRIMARY"  # Update with your actual path
-NEW_PARENT_DIR = r"F:\PROJECTS\AI PROJECTS\data\Grouped_Pics"       # Update with your destination path
+AUGMENTED_DIR = r""       # Update with your actual path
+NON_AUGMENTED_DIR = r""  # Update with your actual path
+NEW_PARENT_DIR = r""       # Update with your destination path
 # ==============================
 
 # Verify source directories exist

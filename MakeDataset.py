@@ -5,7 +5,7 @@ import mediapipe as mp
 import pandas as pd
 
 #to take data
-DATA_DIR = r"F:\PROJECTS\AI PROJECTS\data\Grouped_Pics"
+DATA_DIR = r"" # REPLACE WITH NEW GROUPED PICS DIRECTORY
 
 #Mediapipe Hands
 mp_hands = mp.solutions.hands

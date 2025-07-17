@@ -31,7 +31,7 @@ class SpatialTransformer(Layer):
 
 
 #Load model
-model = load_model(r"my_model3.keras",custom_objects = {"SpatialTransformer":SpatialTransformer})
+model = load_model(r"my_model.keras",custom_objects = {"SpatialTransformer":SpatialTransformer})
 
 #Initialize Hands
 mp_hands = mediapipe.solutions.hands

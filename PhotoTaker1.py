@@ -1,9 +1,9 @@
 import cv2
 import os
 
-DATA_DIR = os.path.normpath(r"F:\AI and ML\AIMS\Projects\NEW\data1\Non_Augmented")
+DATA_DIR = r"" # REPLACE WITH NON AUGMENTED/BASE PICTURE DIRECTORY
 
-os.makedirs(DATA_DIR,exist_ok=True)
+os.makedirs(os.path.normpath(DATA_DIR),exist_ok=True)
 
 instructions = [
     "Press 'Enter' to take Images for Gesture {}",  # Updated instruction

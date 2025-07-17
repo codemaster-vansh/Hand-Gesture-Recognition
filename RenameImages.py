@@ -18,6 +18,6 @@ def rename_images(base_dir):
             os.rename(img_path, new_path)
             print(f"Renamed {img_path} to {new_path}")
 
-# Replace 'your_base_directory_path' with the path to your base directory
+# Replace 'base_directory' with the AUGMENTED PICS DIRECTORY to rename images
 base_directory = r"F:\AI and ML\AIMS\Projects\NEW\data1\Augmented"
 rename_images(base_directory)
