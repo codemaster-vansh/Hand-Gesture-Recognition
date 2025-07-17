@@ -3,7 +3,8 @@ import os
 
 DATA_DIR = r"" # REPLACE WITH NON AUGMENTED/BASE PICTURE DIRECTORY
 
-os.makedirs(os.path.normpath(DATA_DIR),exist_ok=True)
+DATA_DIR = os.path.normpath(DATA_DIR)
+os.makedirs(DATA_DIR,exist_ok=True)
 
 instructions = [
     "Press 'Enter' to take Images for Gesture {}",  # Updated instruction
